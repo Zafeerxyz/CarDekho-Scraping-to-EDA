@@ -1,0 +1,587 @@
+car_name,rating,price,mileage,engine
+MG Hector,4.4,"Rs.11.99 - 19.19 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",13.79 kmpl,1451 cc
+Maruti Suzuki Brezza,4.4,"Rs.7.40 - 13.71 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",21.09 kmpl,1462 cc
+Mahindra Scorpio N,4.6,"Rs.13.69 - 25.49 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,2198 cc
+Tata Punch,4.7,"Rs.5.75 - 10.77 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1199 cc
+Maruti Suzuki FRONX,4.5,"Rs.6.85 - 11.98 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",22.89 kmpl,1197 cc
+Mahindra Thar ROXX,4.6,"Rs.12.52 - 23.52 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",15.2 kmpl,2184 cc
+Tata Nexon,4.6,"Rs.7.40 - 14.52 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",24.08 kmpl,1497 cc
+Maruti Suzuki Swift,4.5,"Rs.5.84 - 8.89 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",25.75 kmpl,1197 cc
+Mahindra Scorpio,4.7,"Rs.13.37 - 17.40 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",14.44 kmpl,2184 cc
+Tata Sierra,4.7,"Rs.11.49 - 21.29 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1498 cc
+Hyundai Creta,4.6,"Rs.10.91 - 20.06 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",21.8 kmpl,1497 cc
+Kia Seltos,4.6,"Rs.11 - 21.82 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1497 cc
+Maruti Suzuki Baleno,4.4,"Rs.5.99 - 9.47 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",22.94 kmpl,1197 cc
+Maruti Suzuki Ertiga,4.5,"Rs.8.90 - 13.04 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",20.51 kmpl,1462 cc
+Toyota Fortuner,4.5,"Rs.34.76 - 50.46 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,2755 cc
+Hyundai Venue,4.6,"Rs.8 - 15.83 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",20.99 kmpl,1493 cc
+Maruti Suzuki e Vitara,4.6,"Rs.16.19 - 20.21 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Defender,4.5,"Rs.1.07 - 2.62 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",14.01 kmpl,5000 cc
+Tata Tiago,4.6,"Rs.4.77 - 8.62 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1199 cc
+Maruti Suzuki Grand Vitara,4.5,"Rs.10.77 - 19.77 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",27.97 kmpl,1490 cc
+Mahindra Thar,4.5,"Rs.10.32 - 17.80 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",9 kmpl,2184 cc
+Maruti Suzuki Dzire,4.7,"Rs.6.31 - 9.41 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",25.71 kmpl,1197 cc
+Hyundai i20,4.5,"Rs.6 - 10.63 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",20 kmpl,1197 cc
+MG Hector Tomahawk EV,4,"Rs.19.50 - 23.50 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Toyota Innova Crysta,4.5,"Rs.19.72 - 26.77 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",9 kmpl,2393 cc
+Toyota Urban Cruiser Hyryder,4.5,"Rs.11.31 - 20.31 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",27.97 kmpl,1490 cc
+Kia Sonet,4.4,"Rs.7.41 - 14.09 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",24.1 kmpl,1493 cc
+Mahindra XUV 3XO,4.6,"Rs.7.79 - 15.04 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",21.2 kmpl,1498 cc
+Mahindra BE 6,4.8,"Rs.19.45 - 26.95 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Mahindra XEV 9e,4.8,"Rs.21.90 - 31.25 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Porsche 911,4.5,"Rs.2 - 3.80 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",10.64 kmpl,3996 cc
+Mahindra Bolero,4.4,"Rs.8.49 - 9.99 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",16 kmpl,1493 cc
+Maruti Suzuki Wagon R,4.4,"Rs.4.99 - 7.24 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",25.19 kmpl,1197 cc
+Hyundai Aura,4.4,"Rs.6 - 8.60 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",17 kmpl,1197 cc
+Mahindra XUV 7XO,4.7,"Rs.13.99 - 25.79 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,2184 cc
+Hyundai Verna,4.6,"Rs.10.99 - 18.41 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1497 cc
+Kia Carens,4.4,"Rs.11.12 - 12.98 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1497 cc
+Tata Punch EV,4.8,"Rs.9.79 - 12.99 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Maruti Suzuki Alto K10,4.4,"Rs.3.70 - 5.45 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",24.9 kmpl,998 cc
+Toyota Camry,4.8,"Rs.48.69 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",25.49 kmpl,2487 cc
+Hyundai Exter,4.6,"Rs.5.81 - 9.61 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1197 cc
+Range Rover,4.5,"Rs.2.40 - 3.83 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,4395 cc
+Tata Harrier,4.6,"Rs.13 - 26.05 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1956 cc
+Skoda Kylaq,4.6,"Rs.7.59 - 12.99 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",19.68 kmpl,999 cc
+Toyota Land Cruiser 300,4.6,"Rs.2.18 - 2.25 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",11 kmpl,3346 cc
+Volkswagen Virtus,4.5,"Rs.10.50 - 19.20 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",20.8 kmpl,1498 cc
+Maruti Suzuki Victoris,4.6,"Rs.10.50 - 19.99 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",28.65 kmpl,1490 cc
+Toyota Hilux,4.5,"Rs.31.99 - 36.69 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,2755 cc
+Tata Tiago EV,4.6,"Rs.6.99 - 10.09 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Toyota Innova Hycross,4.4,"Rs.18.70 - 31.84 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",23.24 kmpl,1987 cc
+Tata Altroz,4.7,"Rs.6 - 10.90 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1497 cc
+Skoda Slavia,4.4,"Rs.10 - 18.29 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",20.32 kmpl,1498 cc
+MG Windsor EV,4.6,"Rs.14.70 - 19 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+BMW M5,4.7,"Rs.2.12 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",49.75 kmpl,4395 cc
+Tata Safari,4.5,"Rs.13.40 - 26.91 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1956 cc
+Nissan Gravite,4.6,"Rs.5.73 - 9.38 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",19.6 kmpl,999 cc
+Maruti Suzuki S-Presso,4.3,"Rs.3.50 - 5.27 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",25.3 kmpl,998 cc
+Tata Nexon EV,4.5,"Rs.12.49 - 17.89 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Honda City,4.7,"Rs.12 - 21.36 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",27.26 kmpl,1498 cc
+Maruti Suzuki Celerio,4.1,"Rs.4.70 - 6.75 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",26.68 kmpl,998 cc
+Honda Amaze,4.5,"Rs.7.65 - 10 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",19.46 kmpl,1199 cc
+Tata Sierra EV,4.8,"Rs.18.79 - 26.48 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Renault Duster,4.7,"Rs.10.49 - 18.69 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",19.41 kmpl,1333 cc
+Toyota Glanza,4.4,"Rs.6.73 - 9.99 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",22.94 kmpl,1197 cc
+BMW X7,4.4,"Rs.1.26 - 1.37 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",14.31 kmpl,2998 cc
+Toyota Taisor,4.4,"Rs.7.43 - 12.94 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",22.8 kmpl,1197 cc
+Skoda Kushaq,4.8,"Rs.10.69 - 18.99 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",19.76 kmpl,1498 cc
+Nissan Magnite,4.5,"Rs.5.68 - 10.99 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",19.9 kmpl,999 cc
+Toyota Vellfire,4.6,"Rs.1.20 - 1.30 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",16 kmpl,2487 cc
+Maruti Suzuki XL6,4.4,"Rs.11.62 - 14.57 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",20.97 kmpl,1462 cc
+Renault KWID,4.3,"Rs.4.53 - 5.85 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",22.3 kmpl,999 cc
+Mahindra Bolero Neo,4.5,"Rs.8.99 - 10.79 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",17.29 kmpl,1493 cc
+Renault Triber,4.4,"Rs.5.81 - 8.69 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",20 kmpl,999 cc
+MG Comet EV,4.3,"Rs.7.80 - 10.07 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Honda Elevate,4.4,"Rs.11.81 - 16.98 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",16.92 kmpl,1498 cc
+Nissan Tekton,4.7,"Rs.10.49 - 18.59 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",19.4 kmpl,1333 cc
+Toyota Rumion,4.6,"Rs.9.79 - 14.21 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",20.51 kmpl,1462 cc
+Tata Harrier EV,4.8,"Rs.21.79 - 30.54 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+MG Hector Tomahawk PHEV,,"Rs.25.70 - 27.80 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1498 cc
+Audi Q3,4.3,"Rs.43.67 - 52.31 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",10.14 kmpl,1984 cc
+Tata Curvv,4.7,"Rs.10 - 19 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",12 kmpl,1497 cc
+Force Urbania,4.6,"Rs.26.34 - 34.32 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",11 kmpl,2596 cc
+Kia Syros,4.6,"Rs.8.42 - 15.82 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1493 cc
+BMW X1,4.5,"Rs.50.90 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",16.35 kmpl,1499 cc
+Hyundai Alcazar,4.5,"Rs.14.51 - 21.25 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",20.4 kmpl,1493 cc
+Maruti Suzuki Jimny,4.5,"Rs.12.54 - 14.67 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",16.94 kmpl,1462 cc
+MG Majestor,5,"Rs.42.49 - 44.99 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1996 cc
+Toyota Fortuner Legender,4.5,"Rs.42.92 - 48.29 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",10.52 kmpl,2755 cc
+MG Cyberster,4.7,"Rs.82.50 - 87.49 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Volkswagen Taigun,4.4,"Rs.11 - 19.30 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",19.98 kmpl,1498 cc
+Kia Carnival,4.6,"Rs.59.65 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",14.85 kmpl,2151 cc
+Mercedes-Benz E-Class,4.6,"Rs.80 - 93.50 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",15 kmpl,2999 cc
+Kia Syros EV,4.7,"Rs.13.50 - 20 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+BMW X5,4.3,"Rs.96.90 Lakh - 1.12 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",12 kmpl,2998 cc
+Maruti Suzuki Eeco,4.3,"Rs.5.28 - 6.46 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",19.71 kmpl,1197 cc
+Jeep Compass,4.2,"Rs.17.99 - 30.95 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",17.1 kmpl,1956 cc
+Range Rover Velar,4.5,"Rs.87.50 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",15.8 kmpl,1997 cc
+Audi Q7,4.7,"Rs.87.17 - 96.15 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",11 kmpl,2995 cc
+Kia Carens Clavis,4.6,"Rs.11.39 - 21.79 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",19.54 kmpl,1497 cc
+Mercedes-Benz GLS,4.5,"Rs.1.32 - 1.43 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",12 kmpl,2999 cc
+Renault Kiger,4.5,"Rs.5.81 - 10.35 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",20.38 kmpl,999 cc
+Hyundai Creta Electric,4.8,"Rs.18.03 - 24.70 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Tata Curvv EV,4.7,"Rs.17.19 - 19.69 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Audi A4,4.3,"Rs.46.88 - 55.83 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",15 kmpl,1984 cc
+Lamborghini Urus,4.6,"Rs.4.18 - 4.57 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",5.5 kmpl,3999 cc
+Skoda Kodiaq,4.5,"Rs.36.99 - 46.99 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",14.86 kmpl,1984 cc
+Maruti Suzuki Ciaz,4.5,"Rs.9.09 - 11.88 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",20.65 kmpl,1462 cc
+Force Gurkha,4.3,"Rs.16.31 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",9.5 kmpl,2596 cc
+BMW M2,4.5,"Rs.1.06 - 1.66 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",10.19 kmpl,2993 cc
+VinFast VF7,4.4,"Rs.22.99 - 28.09 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Citroen C3 X,4.3,"Rs.4.99 - 10.21 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",19.3 kmpl,1199 cc
+Vayve Mobility Eva,4.6,"Rs.3.99 - 5.99 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Maruti Suzuki Invicto,4.4,"Rs.24.97 - 28.70 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",23.24 kmpl,1987 cc
+BMW Z4,4.4,"Rs.90.50 - 95.20 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",8.5 kmpl,2998 cc
+BYD Atto 3,4.2,"Rs.24.99 - 34.49 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Tata Tigor,4.3,"Rs.5.70 - 9.10 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",19.6 kmpl,1199 cc
+Jeep Wrangler,4.7,"Rs.66.20 - 70.80 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",11.4 kmpl,1995 cc
+MG Astor,4.3,"Rs.9.79 - 15.30 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",15.43 kmpl,1498 cc
+Volvo XC90,4.8,"Rs.97.80 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",12.35 kmpl,1969 cc
+Lexus ES 350h,,"Rs.66.10 - 71.80 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",25.22 kmpl,2487 cc
+Range Rover Sport,4.3,"Rs.1.43 - 2.35 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,4395 cc
+BMW M4 Competition,4.6,"Rs.1.60 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",9.7 kmpl,2993 cc
+BMW X3,4.3,"Rs.69.90 - 76 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",17.86 kmpl,1998 cc
+Porsche Cayenne,4.5,"Rs.1.39 - 1.94 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",10.8 kmpl,2894 cc
+BMW 5 Series,4.5,"Rs.76.60 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",15.7 kmpl,1998 cc
+Jeep Meridian,4.3,"Rs.23.33 - 38.26 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",14.1 kmpl,1956 cc
+BYD Sealion 7,4.7,"Rs.41.90 - 55.90 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Range Rover Evoque,4.4,"Rs.64.86 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",12.82 kmpl,1997 cc
+VinFast VF6,4.5,"Rs.18.19 - 20.09 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+MG ZS EV,4.2,"Rs.17.99 - 20.75 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+BMW iX1,4.6,"Rs.52.40 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+BMW X1 LWB,5,"Rs.49.90 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",15.5 kmpl,1499 cc
+Mercedes-Benz C-Class,4.3,"Rs.59.90 - 65.60 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",23 kmpl,1999 cc
+BYD Seal,4.4,"Rs.41.50 - 53.65 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Mahindra Bolero Camper,4.7,"Rs.9.85 - 10.49 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",16 kmpl,2523 cc
+Audi A6,4.3,"Rs.63.74 - 69.89 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",14.11 kmpl,1984 cc
+BMW 3 Series,4.3,"Rs.77.10 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",13.02 kmpl,2998 cc
+Isuzu D-Max,4.1,"Rs.9.98 - 10.88 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",12 kmpl,2499 cc
+Kia EV6,4.7,"Rs.65.97 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+MG M9,4.7,"Rs.79.95 - 84.94 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Hyundai Venue N Line,4.9,"Rs.10.66 - 15.67 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",20 kmpl,998 cc
+Land Rover Discovery,4.1,"Rs.1.25 - 1.37 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",12.37 kmpl,2997 cc
+BMW 7 Series,4.3,"Rs.1.83 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",12.1 kmpl,2998 cc
+VinFast Limo Green,,"Rs.22.99 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+MG Hector Plus,4.3,"Rs.17.49 - 19.69 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",13.79 kmpl,1451 cc
+Mahindra Marazzo,4.6,"Rs.14.06 - 16.38 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",17.3 kmpl,1497 cc
+Honda ZR-V,5,"Rs.47.99 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",22.8 kmpl,1993 cc
+Mercedes-Benz GLC,4.5,"Rs.77 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",19.4 kmpl,1999 cc
+Volvo XC60,4.8,"Rs.68.90 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1969 cc
+Bajaj Qute,4.2,"Rs.3.61 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,216 cc
+BMW i7,4.4,"Rs.2.10 - 2.58 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Audi Q5,4.2,"Rs.63.75 - 69.86 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",13.47 kmpl,1984 cc
+Volkswagen Tayron,4.7,"Rs.41.99 - 47.74 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1984 cc
+Maserati GranTurismo,4.5,"Rs.2.25 - 2.51 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",10 kmpl,4691 cc
+Bentley Continental,4.6,"Rs.5.23 - 8.45 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",12.9 kmpl,5993 cc
+Tata Tigor EV,4.1,"Rs.12.49 - 13.75 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Hyundai Creta N Line,4.3,"Rs.19.03 - 20.10 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",18.2 kmpl,1482 cc
+Mahindra XUV400 EV,4.5,"Rs.15.49 - 17.69 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Mercedes-Benz GLE,4.3,"Rs.1 - 1.17 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",16 kmpl,2999 cc
+Bentley Flying Spur,4.6,"Rs.5.25 - 7.60 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",12.5 kmpl,5950 cc
+Citroen Aircross X,4.4,"Rs.8.89 - 14.72 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",18.5 kmpl,1199 cc
+Porsche Macan,4.6,"Rs.89.65 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",6.1 kmpl,1984 cc
+BMW M440i,4.5,"Rs.1.09 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,2998 cc
+Kia Carens Clavis EV,4.6,"Rs.18.04 - 25 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Citroen Basalt X,4.5,"Rs.8.55 - 14.11 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",19.5 kmpl,1199 cc
+BMW X6,5,"Rs.1.78 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,4395 cc
+Mercedes-Benz S-Class,5,"Rs.2.20 - 2.38 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",32.3 kmpl,2999 cc
+BMW XM,4.5,"Rs.2.55 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",61.9 kmpl,4395 cc
+BMW i4,4.2,"Rs.72.50 - 77.50 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Mahindra Bolero Neo Plus,4.4,"Rs.11.39 - 12.49 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",14 kmpl,2184 cc
+Mercedes-Benz Maybach GLS,4.7,"Rs.2.75 - 4.10 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",10 kmpl,3982 cc
+Mini Cooper Convertible,4.8,"Rs.59 - 62.90 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1998 cc
+Rolls-Royce Cullinan,4.7,"Rs.10.50 - 12.25 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",6.6 kmpl,6750 cc
+Audi Q8,4.4,"Rs.1.13 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",10 kmpl,2995 cc
+BMW iX,4.2,"Rs.1.40 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+BMW M8 Coupe Competition,4.4,"Rs.2.38 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",8.7 kmpl,4395 cc
+Skoda Octavia RS,4.8,"Rs.49.99 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1984 cc
+Maruti Suzuki Dzire Tour S,4.7,"Rs.6.24 - 7.10 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",26.06 kmpl,1197 cc
+Citroen C5 Aircross,4.2,"Rs.37.32 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",17.5 kmpl,1997 cc
+Jeep Grand Cherokee,4.5,"Rs.63 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",7.2 kmpl,1995 cc
+Mercedes-Benz GLA,4.4,"Rs.51.80 - 55 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",18.9 kmpl,1950 cc
+Lexus ES Electric,5,"Rs.91.20 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Lexus LX,4.2,"Rs.2.81 - 2.93 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",5 kmpl,3346 cc
+Aston Martin Vantage,4,"Rs.3.15 - 3.35 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",7 kmpl,3998 cc
+BMW 2 Series Gran Coupe,4.7,"Rs.45.80 - 48.20 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",16.35 kmpl,1499 cc
+Ferrari 296 GTB,4.7,"Rs.5.40 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",15.62 kmpl,2992 cc
+Tata Xpres,4.5,"Rs.5.59 - 6.49 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1199 cc
+Mini Cooper S,4.3,"Rs.44.45 - 58.90 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",15 kmpl,1998 cc
+Maserati Levante,4.2,"Rs.1.49 - 1.64 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",12 kmpl,2987 cc
+BMW i5,4.8,"Rs.1.20 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Tesla Model Y,4.6,"Rs.50.89 - 61.99 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Mercedes-Benz EQS SUV,4.7,"Rs.1.33 - 1.48 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Mclaren GT,4.6,"Rs.4.50 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",5.1 kmpl,3994 cc
+Jaguar F-Pace,4.3,"Rs.72.90 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",10.2 kmpl,1997 cc
+Citroen e-C3 X,4.2,"Rs.11.99 - 13.26 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Lexus LM,4.7,"Rs.2.20 - 2.75 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,2487 cc
+Mercedes-Benz AMG CLE 53,4.5,"Rs.1.32 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,2999 cc
+Isuzu S-CAB,4.2,"Rs.10.44 - 12.75 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",16.56 kmpl,2499 cc
+Porsche Panamera,4.6,"Rs.1.71 - 2.33 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",20 kmpl,3996 cc
+Rolls-Royce Phantom,4.6,"Rs.8.99 - 10.48 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",9.8 kmpl,6749 cc
+Kia EV9,4.9,"Rs.1.30 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Lamborghini Temerario,4.3,"Rs.6 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,3995 cc
+Mercedes-Benz EQS,4.4,"Rs.1.30 - 1.48 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Volvo EX30,4.3,"Rs.41 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Tata Xpres T EV,4.8,"Rs.13.04 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Volvo EC40,4.8,"Rs.59 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Lotus Emeya,5,"Rs.2.34 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Mini Countryman,4.7,"Rs.66.15 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1998 cc
+Mercedes-Benz AMG GT 4 Door Coupe,4.6,"Rs.3.27 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",7 kmpl,3982 cc
+Mclaren 750S,4.3,"Rs.5.91 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",6.1 kmpl,3994 cc
+Bentley Bentayga,4.5,"Rs.5 - 6.75 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",8.6 kmpl,3993 cc
+Isuzu MU-X,4.2,"Rs.34.53 - 37.71 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",13 kmpl,1898 cc
+VinFast VF MPV 7,,"Rs.24.49 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Mercedes-Benz V-Class Extra LWB,4.4,"Rs.1.40 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1999 cc
+PMV EaS E,4.5,"Rs.4.79 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Mercedes-Benz AMG E 53,,"Rs.1.45 - 1.48 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,2999 cc
+Lexus NX,4,"Rs.67.59 - 74.50 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",9.5 kmpl,2487 cc
+BMW 3 Series Long Wheelbase,4.3,"Rs.60.60 - 64.20 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",19.61 kmpl,1998 cc
+Mini Countryman C,4.7,"Rs.47.50 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Volkswagen Golf GTI,4.6,"Rs.50.91 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1984 cc
+Mercedes-Benz AMG GLC 43,4.6,"Rs.99.85 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",10 kmpl,1991 cc
+Lotus Eletre,4.8,"Rs.2.55 - 2.99 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Isuzu Hi-Lander,4.1,"Rs.21.50 - 23.60 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",12.4 kmpl,1898 cc
+Lamborghini Revuelto,4.6,"Rs.8.89 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,6498 cc
+Ferrari SF90 Stradale,4.5,"Rs.7.50 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",18 kmpl,3990 cc
+Ferrari F8 Tributo,4.4,"Rs.4.02 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",5.8 kmpl,3902 cc
+Lotus Emira,4.8,"Rs.3.22 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1998 cc
+Mercedes-Benz Maybach SL 680,4.2,"Rs.4.30 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,3982 cc
+Lamborghini Huracan EVO,4.6,"Rs.4 - 4.99 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",5.9 kmpl,5204 cc
+Hyundai Prime SD,4.5,"Rs.6.96 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1197 cc
+Audi RS Q8,4.7,"Rs.2.34 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",9 kmpl,3998 cc
+Ferrari Amalfi,4,"Rs.5.59 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,3902 cc
+Mercedes-Benz G-Class,4.6,"Rs.2.55 - 4.30 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",8.47 kmpl,3982 cc
+Mercedes-Benz G-Class Electric,4.7,"Rs.3.10 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Aston Martin DBX,4.5,"Rs.4.15 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",8 kmpl,3982 cc
+BMW M4 CS,4.7,"Rs.1.79 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",9.7 kmpl,2993 cc
+Nissan X-Trail,4.6,"Rs.48.20 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",10 kmpl,1498 cc
+Aston Martin DB12,4.3,"Rs.4.10 - 4.35 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",10 kmpl,3982 cc
+Skoda Kodiaq RS,,"Rs.66.99 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1984 cc
+Isuzu S-CAB Z,4.8,"Rs.15.90 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,2499 cc
+Maruti Suzuki Ertiga Tour,4.5,"Rs.9.68 - 10.59 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",18.04 kmpl,1462 cc
+Volkswagen Tiguan R-Line,4.5,"Rs.47.11 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",12.58 kmpl,1984 cc
+Mercedes-Benz AMG C43,4.2,"Rs.94.05 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",10 kmpl,1991 cc
+Isuzu V-Cross,4.2,"Rs.25.50 - 30 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",12.4 kmpl,1898 cc
+Audi Q3 Sportback,4.1,"Rs.54.25 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",10.14 kmpl,1984 cc
+Mercedes-Benz Maybach EQS SUV,4.7,"Rs.2.40 - 2.65 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Maserati Grecale,5,"Rs.1.31 - 2.05 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",9.2 kmpl,3000 cc
+Mercedes-Benz AMG S 63,4.8,"Rs.3.27 - 3.80 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",19.4 kmpl,3982 cc
+Pravaig DEFY,4.6,"Rs.39.50 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Maserati GranCabrio,4.4,"Rs.2.46 - 2.69 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",10.2 kmpl,4691 cc
+Mercedes-Benz AMG A 45 S,4.4,"Rs.87 - 94.80 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",10 kmpl,1991 cc
+Volvo EX40,4.2,"Rs.49 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+BYD eMAX 7,4.7,"Rs.26.90 - 29.90 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Tata Yodha Pickup,4.5,"Rs.6.95 - 7.50 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",13 kmpl,2956 cc
+Mahindra XEV 9S,4.8,"Rs.20.65 - 30.90 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Rolls-Royce Spectre,4.7,"Rs.7.50 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Land Rover Discovery Sport,4.2,"Rs.63.37 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1999 cc
+Porsche Cayenne Coupe,4.2,"Rs.1.44 - 1.95 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",8 kmpl,3996 cc
+Aston Martin Vanquish,4.4,"Rs.6.40 - 6.90 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,5203 cc
+Lexus RX,4.2,"Rs.89.99 Lakh - 1.10 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,2487 cc
+Mercedes-Benz Maybach S-Class,4.7,"Rs.2.88 - 3.47 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",23 kmpl,5980 cc
+Ferrari Roma,4.6,"Rs.3.76 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",6 kmpl,3855 cc
+Mercedes-Benz AMG SL,4.6,"Rs.2.34 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",7.3 kmpl,3982 cc
+Ferrari 849 Testarossa,4.2,"Rs.10.37 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,3990 cc
+Porsche Macan EV,4.9,"Rs.1.22 - 1.73 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Mercedes-Benz CLA Electric,4.4,"Rs.56.50 - 64 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Ferrari 812,4.6,"Rs.5.75 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",5.5 kmpl,6496 cc
+Maruti Suzuki Alto Tour H1,4.6,"Rs.4 - 4.82 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",24.39 kmpl,998 cc
+Blinq RYDE,4.8,"Rs.4.50 - 5 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Mahindra XUV 3XO EV,4.6,"Rs.13.89 - 14.96 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Mercedes-Benz AMG C 63,4.7,"Rs.1.91 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1991 cc
+Strom Motors R3,3.7,"Rs.4.50 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Mercedes-Benz CLE Cabriolet,4.5,"Rs.1.15 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",12 kmpl,1999 cc
+Honda Amaze 2nd Gen,4.3,"Rs.5.99 - 7.80 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",18.6 kmpl,1199 cc
+Mercedes-Benz AMG GLE 53,4.3,"Rs.1.52 - 1.88 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",8.9 kmpl,2999 cc
+Maserati Quattroporte,4.5,"Rs.1.71 - 1.86 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",11.76 kmpl,2999 cc
+Mahindra Bolero Pik-Up,4.5,"Rs.9.49 - 10.32 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",14.3 kmpl,2523 cc
+Hyundai Prime HB,4.8,"Rs.6 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,1197 cc
+Porsche Taycan,4.7,"Rs.1.70 - 2.70 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Maruti Suzuki Wagon R tour,4.3,"Rs.4.99 - 5.89 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",25.4 kmpl,998 cc
+Audi SQ8,,"Rs.1.78 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,3996 cc
+Audi S5 Sportback,4.5,"Rs.73.57 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",10.6 kmpl,2994 cc
+Mercedes-Benz AMG EQS,4.6,"Rs.2.45 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Hyundai i20 N Line,4.5,"Rs.9.27 - 11.74 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",20 kmpl,998 cc
+Toyota Urban Cruiser EBELLA,4.3,"Rs.23.60 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Force Gurkha 5 Door,4.3,"Rs.17.63 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",9.5 kmpl,2596 cc
+Hyundai Grand i10 Nios,4.4,"Rs.5.60 - 8.04 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",18 kmpl,1197 cc
+Rolls-Royce Ghost Series II,4.9,"Rs.8.95 - 10.52 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,6750 cc
+Porsche Cayenne Electric,,"Rs.1.76 - 2.26 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Mini Countryman Electric,4.8,"Rs.55.65 - 60.70 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Mercedes-Benz AMG GT Coupe,4.6,"Rs.3 - 3.55 Cr*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,3982 cc
+Hyundai IONIQ 5,5,"Rs.55.70 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",,
+Maruti Suzuki Eeco Cargo,4.5,"Rs.5.39 - 6.61 Lakh*Get On-Road Price
+*Ex-Showroom Price in New Delhi",20.2 kmpl,1197 cc
